@@ -4,26 +4,21 @@ image: profile_photo.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/breou/breou.github.io
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/breno-nogueira-a513b0134/
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/breno-nogueira-a513b0134/
+    - text: "Orcid"
+      href: https://orcid.org/0000-0002-6887-6960
+    - text: "ResearchGate"
+      href: https://www.researchgate.net/profile/Breno-Ribeiro-Nogueira?ev=hdr_xprf
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+I am Breno Ribeiro Nogueira, a postdoctoral researcher at Centre de Mathématiques Appliquées (CMAP) de l'École Polytechnique.
 
-## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
-
-Macalester College | St. Paul, MN
-B.A in Economics | Sept 2007 - June 2011
-
-## Experience
-
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
