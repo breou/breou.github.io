@@ -1,7 +1,26 @@
 ---
 title: "Breno Ribeiro Nogueira"
+image: profile_photo.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/breou/breou.github.io
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/breno-nogueira-a513b0134/
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/breno-nogueira-a513b0134/
+    - text: "Orcid"
+      href: https://orcid.org/0000-0002-6887-6960
+    - text: "ResearchGate"
+      href: https://www.researchgate.net/profile/Breno-Ribeiro-Nogueira?ev=hdr_xprf
+    - text: "Scholar"
+      href: https://scholar.google.fr/citations?user=NPcm804AAAAJ&hl=en
 ---
 
-This is a Quarto website.
+I am Breno Ribeiro Nogueira, a postdoctoral researcher at Centre de Mathématiques Appliquées (CMAP) de l'École Polytechnique.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
