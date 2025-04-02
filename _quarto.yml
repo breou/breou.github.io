@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Breno Ribeiro Nogueira"
+  image: profile_photo.jpg
   navbar:
     left:
       - href: index.qmd

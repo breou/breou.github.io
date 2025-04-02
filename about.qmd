@@ -1,8 +1,8 @@
 ---
 title: "Breno Ribeiro Nogueira"
+image: profile_photo.jpg
 about:
   template: jolla
-  image: profile_photo.HEIC
   links:
     - icon: twitter
       text: twitter
