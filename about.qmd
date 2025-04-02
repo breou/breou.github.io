@@ -17,6 +17,8 @@ about:
       href: https://orcid.org/0000-0002-6887-6960
     - text: "ResearchGate"
       href: https://www.researchgate.net/profile/Breno-Ribeiro-Nogueira?ev=hdr_xprf
+    - text: "Scholar"
+      href: https://scholar.google.fr/citations?user=NPcm804AAAAJ&hl=en
 ---
 
 I am Breno Ribeiro Nogueira, a postdoctoral researcher at Centre de Mathématiques Appliquées (CMAP) de l'École Polytechnique.
