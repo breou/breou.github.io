@@ -21,6 +21,6 @@ about:
       href: https://scholar.google.fr/citations?user=NPcm804AAAAJ&hl=en
 ---
 
-I am Breno Ribeiro Nogueira, a postdoctoral researcher at Centre de Mathématiques Appliquées (CMAP) de l'École Polytechnique.
+I am Breno Ribeiro Nogueira, a researcher scientist at the french Atomic Energy and Alternative Energies Commission (CEA Saclay).
 
 
