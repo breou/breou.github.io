@@ -4,9 +4,6 @@ image: profile_photo.jpg
 about:
   template: jolla
   links:
-    - icon: github
-      text: Github
-      href: https://github.com/breou/breou.github.io
     - icon: linkedin
       text: Linkedin
       href: https://www.linkedin.com/in/breno-nogueira-a513b0134/
